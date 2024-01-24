@@ -8,3 +8,5 @@ COP2002-0T2
 Spring 2024
 >>> print("This is an interactive session!")
 This is an interactive session!
+print("I'm understanding how to use GitHub to keep track of changes!")
+
